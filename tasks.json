@@ -1,0 +1,22 @@
+[
+    {
+        "task_name": "Buy groceries",
+        "is_task_done": false
+    },
+    {
+        "task_name": "Submit project report",
+        "is_task_done": false
+    },
+    {
+        "task_name": "Clean the house",
+        "is_task_done": false
+    },
+    {
+        "task_name": "Call the bank",
+        "is_task_done": false
+    },
+    {
+        "task_name": "Schedule a dentist appointment",
+        "is_task_done": false
+    }
+]
